@@ -17,9 +17,9 @@ Desarrollo proyectos completos integrando **frontend, backend, bases de datos** 
 
 ---
 
-## **Proyectos Destacados**
+## **Proyecto Destacado**
 
-### **Proyecto 1 — Lennin Sorteos**
+### **Proyecto — Lennin Sorteos**
 <div style="padding:14px; border:1px solid #dcdcdc; border-radius:10px;">
 
 **Sistema completo de gestión de sorteos** que incluye:
@@ -36,45 +36,6 @@ Desarrollo proyectos completos integrando **frontend, backend, bases de datos** 
 
 </div>
 
----
-
-### **Proyecto 2 — Rico Pez**
-<div style="padding:14px; border:1px solid #dcdcdc; border-radius:10px;">
-
-Proyecto recreativo donde aplico lógica, diseño y estructura de código.  
-Actualmente en proceso de optimización y mejora.
-
-**Repositorio:** https://github.com/dayronsena123/rico-pez
-
-</div>
-
----
-
-## **Habilidades Técnicas**
-<div style="padding:14px; border:1px solid #dcdcdc; border-radius:10px;">
-
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express  
-- **Bases de datos:** MySQL, PostgreSQL (Railway)  
-- **Deploy:** Render (Backend), Vercel (Frontend)  
-- **Git / GitHub:** flujo de trabajo profesional  
-- **Conceptos:** API REST, variables de entorno, arquitectura básica de servidor
-
-</div>
-
----
-
-## **Metas Actuales**
-<div style="padding:14px; border:1px solid #dcdcdc; border-radius:10px;">
-
-- Desarrollar más proyectos full-stack reales  
-- Construir un portafolio profesional sólido  
-- Mejorar backend y seguridad  
-- Conseguir mis primeros proyectos freelance  
-
-</div>
-
----
 
 ## **Contacto**
 <div align="center">
